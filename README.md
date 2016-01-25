@@ -1,1 +1,1 @@
-# HLPM
+# Hierarchical Latent Process Modelling
